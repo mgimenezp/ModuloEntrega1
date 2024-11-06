@@ -10,6 +10,9 @@ class Modulo1:
     def printValor(self):
         print("Modulo 1: " + str(self.valor))
 
+    def getValor(self):
+        return self.valor
+
 
 if __name__ == '__main__':
     modulo = Modulo1(18)
