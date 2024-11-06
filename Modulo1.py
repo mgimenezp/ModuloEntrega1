@@ -12,5 +12,5 @@ class Modulo1:
 
 
 if __name__ == '__main__':
-    modulo = Modulo1(10)
+    modulo = Modulo1(18)
     modulo.printValor()
