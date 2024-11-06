@@ -13,6 +13,9 @@ class Modulo1:
     def getValor(self):
         return self.valor
 
+    def setValor(self,valor):
+        self.valor = valor
+
 
 if __name__ == '__main__':
     modulo = Modulo1(18)
